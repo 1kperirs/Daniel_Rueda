@@ -1,0 +1,16 @@
+#container {
+    width: 100%;
+    background-color: rgb(233, 37, 37);
+    display: flex;
+}
+
+header {
+    width: 20%;
+    height: 100px;
+}
+
+.h1 { background-color: rgb(213, 91, 91); }
+.h2 { background-color: rgb(192, 205, 50); }
+.h3 { background-color: rgb(104, 205, 50); }
+.h4 { background-color: rgb(48, 19, 153); }
+.h5 { background-color: rgb(50, 205, 125); }
